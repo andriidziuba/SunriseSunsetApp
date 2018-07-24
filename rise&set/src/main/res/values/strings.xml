@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rise&amp;Set</string>
+    <string name="con_error">Connection error</string>
+    <string name="tvhint">Type city name here...</string>
+    <string name="help">To find out information about sunrises and sunsets of any corner of the world, please, type part of the city name and choose it from list. Choose wishful date. Actually, you can use your current location by pressing appropriate button</string>
+    <string name="date">Choose date</string>
+    <string name="go">Get info</string>
+    <string name="ok">OK</string>
+</resources>
