@@ -1,5 +1,4 @@
 # SunriseSunsetApp
-Test task.
 Required version Android OS 5.0.0+
 This app will help you find information about sunset/sunrise/twilights times in any city of the world.
 Used API:
